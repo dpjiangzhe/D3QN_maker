@@ -1,0 +1,13 @@
+{
+  "base_c":"ETH",
+  "base_inv":20.0,
+  "base_bound_upmost":30.0,
+  "base_bound_limit":10.0,
+  "base_portion":0.5,
+  "quote_c":"USDT",
+  "quote_inv":200000.0,
+  "price_prec":0.01
+}
+
+
+
